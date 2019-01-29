@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Interaction",
+  "Description": "",
+  "Category": "GameplayComponents",
+  "CreatedBy": "Element OP Games",
+  "CreatedByURL": "https://www.elementopgames.com",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": true,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "Interaction",
+      "Type": "Developer",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
