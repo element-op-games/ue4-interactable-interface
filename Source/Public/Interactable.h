@@ -15,4 +15,10 @@ class IInteractable
 public:
 	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable, Category = "UI")
 	void Interact();
+
+	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable, Category = "UI")
+	void BeginLookingAt();
+
+	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable, Category = "UI")
+	void StopLookingAt();
 };
